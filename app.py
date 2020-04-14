@@ -141,4 +141,4 @@ def display_output(rows, columns):
 
 
 if __name__ == '__main__':
-    app.run_server()
+    app.run()
